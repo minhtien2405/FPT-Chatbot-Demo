@@ -1,0 +1,48 @@
+{"intents": [
+        {"tag": "greeting",
+         "patterns": ["Hi there", "How are you", "Is anyone there?","Hey","Hola", "Hello", "Good day", "xin chào"],
+         "responses": ["Xin chào, F-bot có thể giúp gì cho bạn?"],
+         "context": [""]
+        },
+        {"tag": "goodbye",
+         "patterns": ["Bye", "See you later", "Goodbye", "Nice chatting to you, bye", "Till next time", "tạm biệt","bye bạn nhé"],
+         "responses": ["Tạm biệt, hẹn gặp lại"],
+         "context": [""]
+        },
+        {"tag": "thanks",
+         "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me", " cảm ơn bạn nhé", "cảm ơn"," cảm ơn nhiều","cảm ơn hihi"],
+         "responses": ["Không có gì nè!"],
+         "context": [""]
+        },
+        {"tag": "major",
+         "patterns": ["Mình muốn tìm vài thông tin về chuyên ngành", "Mình muốn tìm thông tin liên quan đến môn học", "Mình muốn tìm tài liệu", "Bạn có tài liệu tham khảo không"],
+         "responses": ["Mời bạn nhập mã môn học"],
+         "context": [""]
+        },
+        {"tag": "mae101",
+         "patterns": ["Mathematics Engineering", "mae101", "MAE101"],
+         "responses": ["Mời bạn nhập mã môn học"],
+         "context": [""]
+        },
+        {"tag": "mas291",
+         "patterns": ["Statistics & Probability", "mas291", "MAS291", "Statistics and Probability", "mã môn là Mas291"],
+         "responses": ["Quizlet: https://bom.so/Mlhta2; Youtube: https://bom.so/xqbayC; Test: https://bom.so/dxliO1"],
+         "context": [""]
+        },
+        {"tag": "noanswer",
+         "patterns": [],
+         "responses": ["Sorry, can't understand you", "Please give me more info", "Not sure I understand"],
+         "context": [""]
+        },
+        {"tag": "options",
+         "patterns": ["How you could help me?", "What you can do?", "What help you provide?", "How you can be helpful?", "What support is offered"],
+         "responses": ["I can guide you through Adverse drug reaction list, Blood pressure tracking, Hospitals and Pharmacies", "Offering support for Adverse drug reaction, Blood pressure, Hospitals and Pharmacies"],
+         "context": [""]
+        },
+        {"tag": "eating",
+         "patterns": ["Đói quá", "Muốn ăn gì đó", "Thèm ăn", "Thèm bánh mì", "Có gì ăn không"],
+         "responses": ["Muốn ăn gì cu", "khong lam ma doi co an"],
+         "context": [""]
+        }
+   ]
+}

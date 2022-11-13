@@ -26,7 +26,8 @@ AI Based Chatbot
 4. You're done and let's chat with your F-bot
 
 ## Screenshot
-![chatbot](![image](https://user-images.githubusercontent.com/87778797/201542162-2eccd70b-6933-450e-8b04-2eefd572bd0f.png))
+
+![F-Bot](https://user-images.githubusercontent.com/87778797/201542397-05525cc1-0486-458f-a064-0d3c0eef7241.png)
 
 ## Author
 
